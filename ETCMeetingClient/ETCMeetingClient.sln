@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ETCMeetingClient", "ETCMeetingClient.vcxproj", "{DD3AD055-E5E2-403F-8689-B832B0094038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD3AD055-E5E2-403F-8689-B832B0094038}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD3AD055-E5E2-403F-8689-B832B0094038}.Debug|Win32.Build.0 = Debug|Win32
+		{DD3AD055-E5E2-403F-8689-B832B0094038}.Release|Win32.ActiveCfg = Release|Win32
+		{DD3AD055-E5E2-403F-8689-B832B0094038}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
